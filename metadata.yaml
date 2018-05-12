@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4519
     wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45748#Mr.-Punch-With-Rod-and-GunThe-humours-of-fishing-and-shooting
 gutenberg_issued: '2014-05-24'
 gutenberg_type: Text
 identifiers:
